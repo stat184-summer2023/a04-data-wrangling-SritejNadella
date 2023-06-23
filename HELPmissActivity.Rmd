@@ -38,7 +38,7 @@ data("HELPmiss", package = "mosaicData")
 
 - investigate by searching R help documentation
 - there's a research paper cited where additional detail is provided
-
+hi hello world
 
 
 ## Task 2: Basic Summaries 
